@@ -1,6 +1,6 @@
 bot/__init__.py
 # Initializes Bot and Loads Handlers
-# ***p****o*****p*****e****
+# ***p****o*****p*****e****+
 
 import os
 from telebot import TeleBot
