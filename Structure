@@ -1,0 +1,12 @@
+ Directory Structure:
+ timo_telegram_bot/
+ ├── bot/
+ │   ├── __init__.py
+ │   ├── handlers.py
+ │   ├── database.py
+ │   ├── mpesa.py
+ │   └── admin.py
+ ├── app.py
+ ├── .env
+ ├── requirements.txt
+ └── README.md
